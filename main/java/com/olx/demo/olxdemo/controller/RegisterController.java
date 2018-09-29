@@ -1,0 +1,16 @@
+package com.olx.demo.olxdemo.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+
+@Controller
+public class RegisterController {
+	 @GetMapping("/register")
+	String reg(Model model){
+		 model.addAttribute("msg","successfully submitted");	
+		 return "register";
+		
+	}
+	
+}
