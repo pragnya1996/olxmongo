@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demo-olx
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Dell Inspiron 15R
+Implementation-Vendor-Id: com.olx.demo
+Build-Jdk: 1.8.0_181
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/demo-olx
+Created-By: Maven Integration for Eclipse
+
